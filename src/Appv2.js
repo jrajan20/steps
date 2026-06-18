@@ -9,10 +9,7 @@ export default function App() {
 return(
   <div>
     <Steps/>
-    <StepMessage step={1}>
-      <p>Pass in content</p>
-      <p>🛂</p>
-    </StepMessage>
+    
     {/* <Steps/> */}
   </div>
 )
